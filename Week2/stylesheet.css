@@ -1,0 +1,28 @@
+h1 {  
+font-family: "bauhaus 93", sans-serif;
+font-weight: 300;
+}
+h1 {
+color: darkcyan;
+}
+h1 {
+border-style:double;
+border-color:mediumaquamarine;
+}
+body {
+background-color: aliceblue;
+}
+body {
+    font-family: "Helvetica Neue Light", sans-serif;
+    color: darkturquoise;
+}
+fluid-image {
+    width: 100px;
+}
+container {
+    color: cadetblue;
+    padding: 500px;
+}
+li {
+display: inline;
+}
